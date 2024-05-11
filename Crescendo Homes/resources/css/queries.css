@@ -1,0 +1,106 @@
+/* Big Screens to 1200px */
+@media only screen and (max-width: 1200px) {
+  .job-extra {
+    margin-left: 20px;
+  }
+}
+
+/* Big Tablets to Laptops: 769px to 1024px */
+@media only screen and (max-width: 1024px) {
+  .hero-text {
+    font-size: 20px;
+  }
+
+  .first-proposition {
+    font-size: 30px;
+  }
+
+  .help-box {
+    font-size: 15px;
+  }
+
+  .offer-button {
+    margin-top: 90px;
+  }
+
+  .job-header {
+    font-size: 20px;
+  }
+
+  .job-text {
+    font-size: 18px;
+  }
+
+  .job-extra {
+    font-size: 18px;
+  }
+
+  .job-button {
+    margin-top: 30px;
+  }
+
+  .contact-text {
+    font-size: 18px;
+  }
+
+  .contact-button {
+    margin-top: 25px;
+  }
+}
+
+/* Small Tablets to Big Tablets: 480px to 769px */
+@media only screen and (max-width: 769px) {
+  .hero-text {
+    font-size: 18px;
+  }
+
+  .help-header {
+    font-size: 20px;
+  }
+
+  .steps {
+    font-size: 15px;
+  }
+
+  .job-header {
+    font-size: 15px;
+  }
+
+  .job-text {
+    font-size: 15px;
+  }
+
+  .job-extra {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .hero-text {
+    font-size: 12px;
+  }
+
+  .help-header {
+    font-size: 10px;
+  }
+
+  .steps {
+    font-size: 10px;
+  }
+
+  .job-header {
+    font-size: 11px;
+  }
+
+  .job-text {
+    font-size: 15px;
+  }
+
+  .contact-text {
+    font-size: 15px;
+  }
+
+  .footer p {
+    font-size: 12px;
+  }
+}
